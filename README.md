@@ -7,7 +7,7 @@ UndoCountdown is a tiny jQuery plugin that allows you to attach a countdown to a
 Include the plugin _after_ the jQuery library:
 ```html
 <script src="/path/to/jquery.js"></script>
-<script src="/path/to/jquery-undoCountdown.js"></script>
+<script src="/path/to/jquery.undoCountdown.js"></script>
 ```
 
 ## Usage
