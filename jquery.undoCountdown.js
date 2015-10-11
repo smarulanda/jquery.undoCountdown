@@ -1,3 +1,10 @@
+/**
+ * jquery.undoCountdown.js
+ * @version: v1.0.0
+ * @author: Sebastian Marulanda http://marulanda.me
+ * @see: https://github.com/smarulanda/jquery.undoCountdown
+ */
+
 (function($) {
 
 	$.fn.undoCountdown = function(options) {
